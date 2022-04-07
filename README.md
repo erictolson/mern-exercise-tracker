@@ -1,4 +1,4 @@
-# portfolio-project-three
+# exercise-mern-app
 
 This project represents a single page application that tracks user exercises and is written with the MERN stack. React framework is used for the front-end UI app. Node and Express are used to write a REST API for the back-end web service. MongoDB is used for persistence. There is homepage that displays the data and links to create exercise and edit exercise pages. There is also an option to delete exercises on the homepage. 
 
